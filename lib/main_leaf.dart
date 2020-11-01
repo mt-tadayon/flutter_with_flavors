@@ -1,9 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_with_flavors/app_config.dart';
-import 'package:flutter_with_flavors/main_common.dart';
-
-void main() {
-  final config = AppConfig(flavor: 'leaf', color: Colors.deepOrange);
-
-  mainCommon(config);
-}
+///TODO-6: Create a main method
+///TODO-7: Define the appConfig for this flavor - flavor: 'leaf', color: Colors.deepOrange
+///TODO-8: Call the mainCommon method and pass the appConfig for this flavor to it

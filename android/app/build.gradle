@@ -53,9 +53,11 @@ android {
         }
     }
 
-    flavorDimensions "flavor-type"
+    ///TODO-13: Add flavorDimensions "flavor-type"
+    /*flavorDimensions "flavor-type"*/
 
-    productFlavors {
+    ///TODO-14: Add product flavors
+/*    productFlavors {
         cactus {
             dimension "flavor-type"
             applicationIdSuffix ".cactus"
@@ -68,7 +70,8 @@ android {
             versionNameSuffix "-leaf"
             applicationId "com.example.flutter_with_flavors.leaf"
         }
-    }
+    }*/
+    ///TODO-15: Add icons for each flavor
 }
 
 flutter {
