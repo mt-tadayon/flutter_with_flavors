@@ -71,7 +71,7 @@ android {
             applicationId "com.example.flutter_with_flavors.leaf"
         }
     }*/
-    ///TODO-15: Add icons for each flavor
+    ///TODO-15: Add icons for each flavor in android/app/src
 }
 
 flutter {
